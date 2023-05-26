@@ -435,7 +435,26 @@ th, tr, td {
     margin-bottom: 20px;
 }
 
-
 #trip-table {
     margin-bottom: 20px;
+}
+
+.reservation form {
+    background-color: #02304700;
+    border: #02304700;
+    margin: 0 auto;
+    height: 2px;
+    margin-top: 0;
+    margin-bottom: 3rem;
+}
+
+.reservation p {
+    padding-bottom: 0;
+    margin-top: 2rem;
+}
+
+.reservation buttom {
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 0;
 }
